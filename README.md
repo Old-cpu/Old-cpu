@@ -2,6 +2,8 @@
 
 ![Old-cpu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-cpu&theme=tokyonight&hide=javascript,css,html&layout=compact)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Old-cpu)
+
 <!--
 **Old-cpu/Old-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
