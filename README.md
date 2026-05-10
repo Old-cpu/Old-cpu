@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 💡 About Me
 
 - 🔭 I’m currently working on: **improving my coding skills**
-- 🌱 I’m currently learning: **Python / JavaScript**
+- 🌱 I’m currently learning: **MLIR / C++ / AI Inference**
 - 🤔 I’m looking for help with: **open source projects**
 - 📫 How to reach me: **open an [issue](https://github.com/Old-cpu/Old-cpu/issues)**
 - ⚡ Fun fact: **I love debugging with `console.log` 😄**
@@ -42,23 +42,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Old-cpu&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-cpu&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide=html" />
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Old-cpu)
 
 ---
 
