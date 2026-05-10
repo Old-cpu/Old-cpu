@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;there;👋)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20profile!;Glad%20to%20see%20you%20here!;Explore%20my%20repos%20👇&color=2196F3&center=true&repeat=true&duration=3000&pause=1500)
 
 <!--
 ![Old-cpu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-cpu&theme=tokyonight&hide=javascript,css,html&layout=compact)
