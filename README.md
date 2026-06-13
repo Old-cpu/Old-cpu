@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Old-cpu
+# Hi there 👋, I'm Old
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!&color=2196F3&center=true&width=435&height=50&repeat=true&duration=2000&pause=1000)
 
