@@ -22,9 +22,18 @@
 ---
 -->
 
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="Old — @Old-cpu"/>
-</div>
+<h1 align="center">Old</h1>
+<p align="center"><code>@Old-cpu</code> · still learning · always debugging</p>
+
+### Now
+
+- **Building** — intuitions for how compilers think
+- **Studying** — MLIR · AI compiler · inference runtime
+- **Drawn to** — the gap between model and silicon
+- **Looking for** — open source projects to dig into
+- **Weapon** — `console.log`
+
+`MLIR` · `AI compiler` · `AI inference` · `LLVM` · `C++` · `open source` · `systems`
 
 <br/>
 
