@@ -1,0 +1,70 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,400&amp;family=IBM+Plex+Mono:wght@300;400&amp;display=swap');
+
+      .bg        { fill: #0d1117; }
+      .name      { font-family: 'Lora', Georgia, serif; font-size: 38px; font-weight: 400; fill: #e6edf3; letter-spacing: -0.5px; }
+      .handle    { font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 13px; font-weight: 300; fill: #484f58; letter-spacing: 0.04em; }
+      .tagline   { font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 12px; font-weight: 300; fill: #6e7681; letter-spacing: 0.02em; }
+      .label     { font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 10px; font-weight: 300; fill: #484f58; letter-spacing: 0.1em; text-transform: uppercase; }
+      .value     { font-family: 'Lora', Georgia, serif; font-size: 14px; font-style: italic; fill: #8b949e; }
+      .chip-bg   { fill: none; stroke: #30363d; stroke-width: 0.5; rx: 3; }
+      .chip-text { font-family: 'IBM Plex Mono', 'Courier New', monospace; font-size: 10.5px; font-weight: 300; fill: #6e7681; letter-spacing: 0.03em; }
+      .chip-text.hi { fill: #c9d1d9; }
+      .rule      { stroke: #21262d; stroke-width: 0.5; }
+      .dot       { fill: #30363d; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="200" class="bg"/>
+
+  <!-- left column: name block -->
+  <text x="48" y="78" class="name">Old</text>
+  <text x="48" y="100" class="handle">@Old-cpu</text>
+  <text x="48" y="118" class="tagline">still learning · always debugging</text>
+
+  <!-- vertical rule -->
+  <line x1="260" y1="36" x2="260" y2="164" class="rule"/>
+
+  <!-- right column: now -->
+  <text x="284" y="52" class="label">now</text>
+
+  <text x="284" y="74" class="label">building</text>
+  <text x="354" y="74" class="value">better coding intuitions</text>
+
+  <text x="284" y="94" class="label">studying</text>
+  <text x="354" y="94" class="chip-text hi">MLIR · C++ · AI Inference</text>
+
+  <text x="284" y="114" class="label">looking for</text>
+  <text x="354" y="114" class="value">open source to join</text>
+
+  <text x="284" y="134" class="label">weapon</text>
+  <text x="354" y="134" class="chip-text">console.log</text>
+
+  <!-- horizontal rule -->
+  <line x1="284" y1="148" x2="752" y2="148" class="rule"/>
+
+  <!-- chips row -->
+  <rect x="284" y="156" width="38" height="18" rx="3" class="chip-bg"/>
+  <text x="303" y="169" text-anchor="middle" class="chip-text hi">MLIR</text>
+
+  <rect x="328" y="156" width="30" height="18" rx="3" class="chip-bg"/>
+  <text x="343" y="169" text-anchor="middle" class="chip-text hi">C++</text>
+
+  <rect x="364" y="156" width="72" height="18" rx="3" class="chip-bg"/>
+  <text x="400" y="169" text-anchor="middle" class="chip-text hi">AI inference</text>
+
+  <rect x="442" y="156" width="60" height="18" rx="3" class="chip-bg"/>
+  <text x="472" y="169" text-anchor="middle" class="chip-text">compilers</text>
+
+  <rect x="508" y="156" width="38" height="18" rx="3" class="chip-bg"/>
+  <text x="527" y="169" text-anchor="middle" class="chip-text">LLVM</text>
+
+  <rect x="552" y="156" width="62" height="18" rx="3" class="chip-bg"/>
+  <text x="583" y="169" text-anchor="middle" class="chip-text">open source</text>
+
+  <rect x="620" y="156" width="46" height="18" rx="3" class="chip-bg"/>
+  <text x="643" y="169" text-anchor="middle" class="chip-text">systems</text>
+</svg>
