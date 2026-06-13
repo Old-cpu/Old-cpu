@@ -1,29 +1,4 @@
 <!--
-## Hi there 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20profile!;Glad%20to%20see%20you%20here!;Explore%20my%20repos%20👇&color=2196F3&center=true&repeat=true&duration=3000&pause=1500)
-
-
-![Old-cpu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Old-cpu&theme=tokyonight&hide=javascript,css,html&layout=compact)
-
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Old-cpu)
-
-
-**Old-cpu/Old-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋, I'm Old
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!&color=2196F3&center=true&width=435&height=50&repeat=true&duration=2000&pause=1000)
@@ -45,5 +20,25 @@ Here are some ideas to get you started:
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
 
 ---
+-->
 
-<!-- 你可以自由增删上面的技能徽章，去 shields.io 搜索更多 -->
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="Old — @Old-cpu"/>
+</div>
+
+<br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Old-cpu&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=github_dark&hide=stars&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-cpu&hide_border=true&layout=compact&theme=github_dark&langs_count=6" />
+</div>
+
+---
+
+<div align="right">
+  <sub><code>reach me → open an issue</code></sub>
+</div>
